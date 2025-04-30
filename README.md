@@ -5,6 +5,8 @@ BitNet-MLX is a repository for running BitNet models using the MLX framework, op
 ## Prerequisites
 - Google Colab environment.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IIIIQIIII/BitNet-MLX/blob/main/BitNet_MLX.ipynb)
+
 ## Setup and Running on Colab
 
 Follow these steps to run BitNet-MLX on Google Colab:
